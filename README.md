@@ -1,5 +1,6 @@
 # learngit
 
-## This is Main branch
+
+## This is Main (after merge) branch
 
 something change in main
